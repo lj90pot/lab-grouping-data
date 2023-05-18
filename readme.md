@@ -1,3 +1,8 @@
+Solution in Tableau Public: 
+https://public.tableau.com/views/lab_grouping_data_16844368542430/1_Numberofvisitsperstage?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+If not working the file is uploaded in the repository
+
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Grouping Data
